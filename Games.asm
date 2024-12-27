@@ -4,7 +4,7 @@
 
 ; This is a Rock, Paper, Scissors game written in assembly language.
 ;Date: 12/27/2024
-;Author: Kalkidan Kidane
+
 
 
 
