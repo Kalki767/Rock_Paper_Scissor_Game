@@ -1,1 +1,2 @@
 # Rock_Paper_Scissor_Game
+This is a rock paper scissor game written in an assembly language. The code was written in emu8086 emulator and anyone who wants to run this code need to use either a DOS or emu8086 emulator. It's a simple game which prompts the user to enter a number based on the instruction and play the user with the computer. If the user wants to continue it would continue.
